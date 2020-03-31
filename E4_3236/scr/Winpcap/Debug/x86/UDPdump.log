@@ -1,0 +1,7 @@
+﻿  code.c
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+C:\Users\asus\Desktop\文件\计网\E4_3236\scr\Winpcap\UDPdump\code.c(120,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\asus\Desktop\文件\计网\E4_3236\scr\Winpcap\UDPdump\code.c(120,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\asus\Desktop\文件\计网\E4_3236\scr\Winpcap\UDPdump\code.c(120,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+code.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  UDPdump.vcxproj -> C:\Users\asus\Desktop\文件\计网\E4_3236\scr\Winpcap\\Debug\x86\Code.exe
